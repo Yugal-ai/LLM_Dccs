@@ -1,0 +1,12 @@
+{
+    "input_variables": [
+        "Infy",
+        "2022"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "Give me details on {product} amd How it perform in  {year}",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
